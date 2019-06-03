@@ -4,7 +4,9 @@ title: Ελληνικό Ερευνητικό Δίκτυο Ψηφιακών Αν�
 
 ---
 
-
+<figure>
+	<img src="/images/dhgr.png" width="280px" style="float: left; margin-right: 15px; margin-bottom: 15px;" />
+</figure>
 
 ## Ποιοί είμαστε
 
